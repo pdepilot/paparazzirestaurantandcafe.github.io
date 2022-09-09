@@ -1,0 +1,88 @@
+body{
+    font-size: 15px;
+    line-height: 1.52;
+    color: #101213;
+    font-family: 'Open',sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+    background-color: #fff;
+}
+.section-padding{
+    padding: 60px 0px;
+}
+.marb-35{
+    margin-bottom: 35px;
+}
+.header-h{
+    font-size: 35px;
+    color: #ef3406;
+    font-family: 'satisfy',sans-serif;
+    font-weight: 300;
+}
+.header-p{
+    color: #101012;
+    font-size: 20px;
+}
+#menu-flters ul li {
+    display: inline-block;
+    color: #fff;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+}
+#menu-flters ul li a {
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #423d3d;
+    border-radius: 0px;
+    border: 1px solid #BBBBBB;
+    text-decoration: none;
+    cursor: pointer;
+}
+#menu-flters ul li a.active, #menu-flters ul li a:hover {
+    background: #fa510e;
+    color: #fff;
+    border: 1px solid #121110;
+
+}
+.menu-restaurant{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    position: relative;
+}
+.menu-restaurant .menu-tiltle{
+    float: left;
+        font-family: Montserrat,arial;
+        font-size: 200px;
+        text-transform: uppercase;    
+        letter-spacing: 1px;
+        color: #bf8347;
+
+}
+.menu-restaurant .menu-line{
+        position: absolute;
+        bottom: 6px;
+        border-bottom: 0px dotted rgba(230, 9, 9, 0.3);
+        margin-left: 6rem;
+        margin-right: 6rem;
+
+}
+.menu-restaurant .menu-price{
+       font-weight: 600;
+       font-size: 20px;
+       color: tomato;
+       position: absolute;
+       right: 0;
+       top: 0;
+}
+.menu-restaurant .menu-subtitle{
+    display: block;
+    float: left;
+    color: #FFB03B;
+    font-size: 1.2rem;
+}
+.menu-restaurant span.clearfix{
+    position: relative;
+    display: block;
+}

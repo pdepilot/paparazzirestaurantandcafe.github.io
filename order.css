@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+body{background-color:rgb(133, 176, 239);}
+
+.logo{margin:0 auto; width:8%}
+
+h2{font-family: 'Cabin', sans-serif;font-size:1.8em; font-weight:40%; }
+
+h3{font-family: 'Cabin', sans-serif;font-size:1.5em; font-weight:40%;color:black;}
+
+p{font-family: 'Cabin', sans-serif;font-size:0.8em;color:#111;font-weight:bold;font-family: font-family: 'Cabin', sans-serif;}
+
+.submit{background-color:black; color:white; padding:10px;border-radius:5px}
+
+
+.panel{padding:20px; background-color:#FDF4E3; height:170px;}
+
+
